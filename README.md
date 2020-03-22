@@ -1,3 +1,4 @@
 "# test" 
 
 cd test
+chrome
